@@ -1,5 +1,13 @@
 # Trailhead Module
-Lightning Web コンポーネント開発者ツールの設定
+
+
+# Salesforce Trailhead
+    Module: Set Up Your Lightning Web Components Developer Tools
+                Lightning Web コンポーネント開発者ツールの設定
+            Apex & .NET Basics
+                Apex と .NET の基本    
+    Sandbox: Dev3
+
 
 # Salesforce DX Project: Next Steps
 
